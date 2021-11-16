@@ -1,5 +1,7 @@
 # stylish-fastmri
 
+Repository with final project for Deep Learning course (by Victor Lempitsky)
+
 # TODO:
 
 - [ ] [Anton] Code simple VAE / Research more sophisticated VAEs or alternatives and implement
